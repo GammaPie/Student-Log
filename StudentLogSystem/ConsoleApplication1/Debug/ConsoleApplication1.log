@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+c:\users\alex_\source\repos\studentlogsystem\consoleapplication1\consoleapplication1.cpp(130): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\alex_\source\repos\studentlogsystem\consoleapplication1\consoleapplication1.cpp(134): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\alex_\source\repos\studentlogsystem\consoleapplication1\consoleapplication1.cpp(138): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ConsoleApplication1.vcxproj -> C:\Users\Alex_\source\repos\StudentLogSystem\Debug\ConsoleApplication1.exe
